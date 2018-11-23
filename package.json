@@ -22,11 +22,8 @@
     "url": "https://github.com/dhs-harpseal/harpbot/issues"
   },
   "homepage": "https://github.com/dhs-harpseal/harpbot#readme",
-  "engines": {
-    "node": "8.9.1",
-    "npm": "5.5.1"
-  },
-  "dependencies": {
+    "dependencies": 
+	{
     "discord.js": "^11.3.1",
 	"firebase": "5.5.9"
   }
