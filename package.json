@@ -27,7 +27,7 @@
     "npm": "5.5.1"
   },
   "dependencies": {
-    "discord.js": "^11.3.1"
+    "discord.js": "^11.3.1",
 	"firebase/app": "5.5.9"
   }
 }
