@@ -161,8 +161,3 @@ client.on("voiceStateUpdate", function (oldMember, newMember) {
 });
 
 client.login('Mzg2MDM5NDU0Mjk4NTM3OTg0.DisJXQ.A9J-jAESLo16K3Zs1uDhGdjM2sE');
-let port = process.env.PORT;
-if (port == null || port == "") {
-  port = 8000;
-}
-app.listen(port);
