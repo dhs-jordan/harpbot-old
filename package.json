@@ -22,9 +22,9 @@
     "url": "https://github.com/dhs-harpseal/harpbot/issues"
   },
   "homepage": "https://github.com/dhs-harpseal/harpbot#readme",
-    "dependencies": 
-	{
+  "dependencies": {
     "discord.js": "^11.3.1",
-	"firebase": "5.5.9"
+    "firebase": "5.5.9",
+    "portscanner": "^2.2.0"
   }
 }
